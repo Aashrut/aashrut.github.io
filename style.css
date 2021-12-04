@@ -1,0 +1,23 @@
+/*Importing Google Fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&family=Ubuntu+Mono&display=swap');
+
+body {
+    color: white;
+    background-color: black;
+    /*font-family: 'Ubuntu', sans-serif;*/
+    font-family: 'Ubuntu Mono', monospace;
+}
+
+.Typewriter__cursor {
+    font-size: 1.75rem;
+}
+
+a {
+    color: white !important;
+    font-size: 1.25rem;
+    z-index: 1;
+}
+
+#id {
+    text-align: center;
+}
