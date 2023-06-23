@@ -10,6 +10,6 @@ typewriter
 	.pauseFor(1000)
 	.typeString("<p class='h1 d-inline'>Hi, I'm Aashrut Vaghani.</p><br>")
 	.pauseFor(300)
-	.typeString("<p class='h2 d-inline'>I'm an IT Engineering Student.</p>")
+	.typeString("<p class='h2 d-inline'>I'm an IT Engineer.</p>")
 	.pauseFor(1000)
 	.start();
